@@ -83,7 +83,6 @@ public class Solution {
             i++;
         }
         return out;
-
     }
 
     public static List<Word> detectAllWords(int[][] crossword, String... words) {
